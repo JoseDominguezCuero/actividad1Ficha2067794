@@ -1,0 +1,14 @@
+C:\Users\pc\Desktop\Actividad_1_JDC\Actividad_1_JDC\bin\Debug\Actividad_1_JDC.exe.config
+C:\Users\pc\Desktop\Actividad_1_JDC\Actividad_1_JDC\bin\Debug\Actividad_1_JDC.exe
+C:\Users\pc\Desktop\Actividad_1_JDC\Actividad_1_JDC\bin\Debug\Actividad_1_JDC.pdb
+C:\Users\pc\Desktop\Actividad_1_JDC\Actividad_1_JDC\obj\Debug\Actividad_1_JDC.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\Actividad_1_JDC\Actividad_1_JDC\obj\Debug\Actividad_1_JDC.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Actividad_1_JDC\Actividad_1_JDC\obj\Debug\Actividad_1_JDC.exe
+C:\Users\pc\Desktop\Actividad_1_JDC\Actividad_1_JDC\obj\Debug\Actividad_1_JDC.pdb
+C:\Users\pc\Desktop\SENA\3 - TRIMESTRE\3- MIERCOLES (Programacion Avanzada I - .NET) Jesús Ropero\1 (30-09-2020)\Evidencias\C#\C# - Consola\Actividad_1_JDC\Actividad_1_JDC\bin\Debug\Actividad_1_JDC.exe.config
+C:\Users\pc\Desktop\SENA\3 - TRIMESTRE\3- MIERCOLES (Programacion Avanzada I - .NET) Jesús Ropero\1 (30-09-2020)\Evidencias\C#\C# - Consola\Actividad_1_JDC\Actividad_1_JDC\bin\Debug\Actividad_1_JDC.exe
+C:\Users\pc\Desktop\SENA\3 - TRIMESTRE\3- MIERCOLES (Programacion Avanzada I - .NET) Jesús Ropero\1 (30-09-2020)\Evidencias\C#\C# - Consola\Actividad_1_JDC\Actividad_1_JDC\bin\Debug\Actividad_1_JDC.pdb
+C:\Users\pc\Desktop\SENA\3 - TRIMESTRE\3- MIERCOLES (Programacion Avanzada I - .NET) Jesús Ropero\1 (30-09-2020)\Evidencias\C#\C# - Consola\Actividad_1_JDC\Actividad_1_JDC\obj\Debug\Actividad_1_JDC.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\SENA\3 - TRIMESTRE\3- MIERCOLES (Programacion Avanzada I - .NET) Jesús Ropero\1 (30-09-2020)\Evidencias\C#\C# - Consola\Actividad_1_JDC\Actividad_1_JDC\obj\Debug\Actividad_1_JDC.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\SENA\3 - TRIMESTRE\3- MIERCOLES (Programacion Avanzada I - .NET) Jesús Ropero\1 (30-09-2020)\Evidencias\C#\C# - Consola\Actividad_1_JDC\Actividad_1_JDC\obj\Debug\Actividad_1_JDC.exe
+C:\Users\pc\Desktop\SENA\3 - TRIMESTRE\3- MIERCOLES (Programacion Avanzada I - .NET) Jesús Ropero\1 (30-09-2020)\Evidencias\C#\C# - Consola\Actividad_1_JDC\Actividad_1_JDC\obj\Debug\Actividad_1_JDC.pdb
